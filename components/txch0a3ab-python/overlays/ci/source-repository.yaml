@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: txch0a3ab-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/txch0a3ab-python
